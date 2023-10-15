@@ -1,0 +1,45 @@
+*{
+    padding: 1%;
+    background-color: rgb(235, 235, 235);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+
+}
+
+
+.formdsn{
+
+    text-align: center;
+   height: 300px;
+    background-color: rgb(234, 234, 234);
+    border-radius: 20px;
+    color: black;
+
+}
+
+.inputtxt
+{
+    border-radius: 10px;
+    border: 0.5px;
+}
+
+.number
+{
+    border-radius: 10px;
+    border: 0.5px;
+}
+
+.btn
+{
+    border: 0;
+    border-radius: 10px;
+
+}
+
+.center{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
